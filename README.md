@@ -13,12 +13,12 @@ Technologies :computer:
 # Installation :wrench:
 To run this project locally, you need to have Node.js and npm installed on your machine.
 
-Clone this repository: git clone https://github.com/shahid/workday-warriors.git
-Go to the project directory: cd workday-warriors
-Install the dependencies: npm install
-Make sure to add your own firebase config in the directory './src/firebase/config.js'
-Start the development server: npm start
-Open http://localhost:3000 in your browser
+- Clone this repository: git clone https://github.com/shahid/workday-warriors.git
+- Go to the project directory: cd workday-warriors
+- Install the dependencies: npm install
+- Make sure to add your own firebase config in the directory './src/firebase/config.js'
+- Start the development server: npm start
+- Open http://localhost:3000 in your browser
 # Demo :eyes:
 You can see a live demo of this project here: https://workday-warriors.web.app/
 
