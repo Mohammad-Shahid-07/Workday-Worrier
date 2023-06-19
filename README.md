@@ -1,5 +1,5 @@
 # Workday Warriors :rocket:
-Workday Warriors is a project management tool similar to Asana. You can sign up, log in, log out, and create tasks and projects with your team. It’s a simple and elegant way to organize your work and collaborate with others. :sparkles:
+Workday Warriors is a project management tool similar to Asana. You can sign up, log in, log out, and create tasks and projects with your team. It’s a simple and :elegant way to organize your work and collaborate with others. :sparkles:
 
 # Features :star:
 :fire: Authentication system using Firebase
