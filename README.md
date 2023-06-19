@@ -8,7 +8,7 @@ Workday Warriors is a project management tool similar to Asana. You can sign up,
 :white_check_mark: Mark tasks as complete and keep your workspace clutter-free
 :green_circle: See who is online with a little green dot
 :mag: Filter your projects by different criteria, such as all, mine, development, design, marketing, etc.
-Technologies :computer:
+#Technologies :computer:
 
 # Installation :wrench:
 To run this project locally, you need to have Node.js and npm installed on your machine.
